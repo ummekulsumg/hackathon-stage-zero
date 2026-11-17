@@ -1,5 +1,5 @@
 # Stage 0 deployment
 Team ID: team-zero
-Production: https://vercel.app
-API: https://vercel.app/api/health
+Production: https://ummekulsumg-hackathon-stage-zero.vercel.app
+API: https://ummekulsumg-hackathon-stage-zero.vercel.appvercel.app/api/health
 Public page and API tested.
